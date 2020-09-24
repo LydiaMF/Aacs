@@ -1,2 +1,2 @@
-# ALMAacs
-ALMAarrayCombinationStudy
+# Aacs
+ALMA array combination study
